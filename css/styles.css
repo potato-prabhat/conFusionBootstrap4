@@ -51,4 +51,11 @@
     padding: 10px;
 }
 
+.accordion-toggle {
+    cursor: pointer;
+  }
+
+  .cursor-pointer{
+    cursor: pointer;
+  }
 
